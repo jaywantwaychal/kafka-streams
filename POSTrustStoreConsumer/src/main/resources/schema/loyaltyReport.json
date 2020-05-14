@@ -1,0 +1,12 @@
+{
+	"type": "object",
+	"javaType": "com.example.demo.types.Report",
+	"properties": {
+		"CustomerNumber": {
+			"type": "string"
+		},
+		"TotalLoyaltyPoint": {
+			"type": "number"
+		}
+	}
+}
